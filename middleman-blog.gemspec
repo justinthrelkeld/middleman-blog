@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "middleman-blog/version"
 
 Gem::Specification.new do |s|
-  s.name = "middleman-blog"
+  s.name = "middleman-blog-geo"
   s.version = Middleman::Blog::VERSION
   s.platform = Gem::Platform::RUBY
   s.authors = ["Thomas Reynolds", "Ben Hollis"]
