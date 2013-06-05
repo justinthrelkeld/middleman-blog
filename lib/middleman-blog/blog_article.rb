@@ -52,6 +52,10 @@ module Middleman
       def title
         data["title"]
       end
+      
+      def place
+        data["place"]
+      end
 
       # Whether or not this article has been published
       #
